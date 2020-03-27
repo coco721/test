@@ -1,0 +1,2 @@
+ros_exploring/robot_mrobot/mrobot_bringup:ros_exploring/robot_mrobot/mrobot_description:ros_exploring/robot_mrobot/mrobot_gazebo:ros_exploring/robot_mrobot/mrobot_navigation:ros_exploring/robot_mrobot/mrobot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/guo/git/devel -DCMAKE_INSTALL_PREFIX=/home/guo/git/install -G Unix Makefiles
